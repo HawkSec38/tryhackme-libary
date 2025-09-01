@@ -139,6 +139,6 @@ Located at `/root/root.txt`:
 
 ---
 
-**Author:** [Your Name]  
+**Author:** Goodluck Oyebisi  
 **Date:** September 1, 2025  
-**License:** MIT
+
